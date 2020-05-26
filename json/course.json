@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1",
+        "name":"JavaScript",
+        "description":"JavaScript is an interpreted programming language, dialect of the ECMAScript standard."
+    },
+    {
+        "id":"2",
+        "name":"Python",
+        "description":"Python is an interpreted programming language whose philosophy emphasizes the readability of its code."
+    },
+    {
+        "id":"3",
+        "name":"React",
+        "description":"React is an open source Javascript library for creating user interfaces with the aim of encouraging the development of applications on a single page."
+    },
+    {
+        "id":"4",
+        "name":"Kotlin",
+        "description":"Kotlin is an open source language, under the Apache 2.0 license, created in 2011 by JetBrains"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "id":"1",
+        "courseID":"1",
+        "studentID":"1",
+        "grade":"Primer Año"
+    },
+    
+    {
+        "id":"2",
+        "courseID":"2",
+        "studentID":"2",
+        "grade":"Segundo Año"
+    },
+
+    {
+        "id":"3",
+        "courseID":"3",
+        "studentID":"3",
+        "grade":"Tercer Año"
+    },
+
+    {
+        "id":"4",
+        "courseID":"4",
+        "studentID":"4",
+        "grade":"Cuarto Año"
+    }
+
+
+]
